@@ -1,0 +1,190 @@
+#Welcome{
+   background-color:linen;
+    color: black;
+    font-size:25px;
+    padding:25px;
+    border:3px solid black;
+    
+}
+
+h1{
+    color:black;
+    font-family:fantasy;
+    text-align:center;
+    font-size:50px
+
+
+}
+
+body{
+    background-color:oldlace
+}
+
+
+
+  
+
+  #heading{
+    color:black;
+    font-size:80px;
+    margin-top:100px
+    
+  }
+
+  #mainpic{
+    height:800px;
+    width:1000px;border:2px soid black;
+    margin-top:100px;
+    border-radius:50px"
+  }
+
+  #Page{
+    color:black;
+    border:5px solid gray;
+    padding:20px;
+    background-color:blanchedalmond;
+    margin-top:500px
+  }
+
+
+  #about{
+    height:480px;
+    width:900px;
+    color:burlywood;
+    border:3px solid black;
+    padding:50px;
+    border-radius:50px;
+    background-color:rgb(54, 48, 48);
+    text-align:center;
+    
+  }
+
+  #popular{
+    color:black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center
+  }
+
+  
+
+  td{
+   padding:40px;
+   height:50px;
+   width:100px 
+  }
+
+  #Newdrink{
+    margin-top:200px;
+    background-color:rgb(54, 48, 48);
+    color:burlywood
+  }
+
+  #pumpkin{
+    background-color: rgb(54, 48, 48);
+    color:burlywood;
+    height:400px;
+    width:350px;
+    border-radius:40px;
+    align-items:center
+  }
+
+  #Newone{
+    text-align:center;
+    background-color: rgb(54, 48, 48);
+    font-size:20px
+  }
+
+  #Latte{
+    height:380px;
+    width:550px
+  }
+
+  #ingredients{
+    height:200px;
+    width:1000px;
+    border-radius:20px;
+    background-color:rgb(226, 200, 123);
+    padding:10px;
+    text-align:center;
+    border: 5px solid burlywood;
+    background-color: rgb(54, 48, 48)
+  }
+
+  #joy{
+    color:rgb(54, 48, 48);
+    font-size:60px
+  }
+
+  #booking{
+    background-color:rgb(54, 48, 48);
+    margin-top:200px;
+    
+  }
+  
+
+  #working{
+    background-color:rgb(54, 48, 48);
+    margin-left:50px;
+    
+  }
+
+  td{
+    height:100px;
+    width:250px
+  }
+
+  #Door{
+    font-family:fantasy;
+    color:burlywood;
+    text-align:center;
+    background-color:rgb(54, 48, 48)
+}
+    #ok{
+        height:50px;
+        width:150px;
+        background-color:burlywood;
+        border-radius:30px
+    }
+
+    #meg{
+        background-color:grey;
+        border:4px solid black;
+        border-radius:10px;
+        height:1600px;width:500px;
+        margin-top:400px
+    }
+
+    #yes{
+        text-align:center;
+        font-size:70px;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size:70px
+    }
+
+    #end{
+        background-color:rgb(64, 62, 62);
+        height:300px;
+        width:1500px;
+        color:white;
+        margin-top:50px
+    }
+
+    #last{
+        text-align:center
+    }
+
+    #one{
+        height:50px;
+        width:50px;
+        
+    }
+    #two{
+        height:50px;
+        width:50px;
+        
+    }
+  
+#three{
+    height:50px;
+        width:50px;
+        
+}
